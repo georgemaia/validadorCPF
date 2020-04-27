@@ -15,6 +15,15 @@ function validaCPF(cpf) {
         }
         console.log(soma);
 
+        var resultado = soma % 11 < 2 ? 0 : 11 - (soma % 11);
+
+        // Validação primeiro digito
+        if(resultado != digitos.charAt(0)) {
+            return false;
+        }
+        
+        // Validação segundo digito
+
         return true;
     }
 }
