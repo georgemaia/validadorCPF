@@ -4,4 +4,4 @@
 ### Página para validar CPFs
 
 
-Por [Goerge Maia](https://github.com/georgemaia/)
+Por [George Maia](https://github.com/georgemaia/)
