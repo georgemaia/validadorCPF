@@ -26,16 +26,12 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -96,16 +92,16 @@ Project Link: [https://github.com/georgemaia/validadorCPF](https://github.com/ge
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/georgemaia/repo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/georgemaia/validadorCPF.svg?style=flat-square
 [contributors-url]: https://github.com/georgemaia/validadorCPF/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/georgemaia/repo.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/georgemaia/validadorCPF.svg?style=flat-square
 [forks-url]: https://github.com/georgemaia/validadorCPF/network/members
-[stars-shield]: https://img.shields.io/github/stars/georgemaia/repo.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/georgemaia/validadorCPF.svg?style=flat-square
 [stars-url]: https://github.com/georgemaia/validadorCPF/stargazers
-[issues-shield]: https://img.shields.io/github/issues/georgemaia/repo.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/georgemaia/validadorCPF.svg?style=flat-square
 [issues-url]: https://github.com/georgemaia/validadorCPF/issues
-[license-shield]: https://img.shields.io/github/license/georgemaia/repo.svg?style=flat-square
-[license-url]: https://github.com/georgemaia/validadorCPF/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/georgemaia/validadorCPF.svg?style=flat-square
+[license-url]: https://github.com/georgemaia/validadorCPF/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/georgemaia
 [product-screenshot]: screenshot.png
