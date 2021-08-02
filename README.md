@@ -7,7 +7,7 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/georgemaia/validadorCPF">
+  <a href="https://georgemaia.github.io/validadorCPF/">
     <img src="cpf.png" alt="Logo" width="91" height="56">
   </a>
 
@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/georgemaia/validadorCPF)
+[![Product Name Screen Shot][product-screenshot]](https://georgemaia.github.io/validadorCPF/)
 
 
 <!-- GETTING STARTED -->
